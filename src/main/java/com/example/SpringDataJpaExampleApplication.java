@@ -10,5 +10,6 @@ public class SpringDataJpaExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDataJpaExampleApplication.class, args);
+		//test
 	}
 }
